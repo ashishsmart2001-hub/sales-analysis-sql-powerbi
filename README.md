@@ -79,7 +79,7 @@ The SQL work is organized into four scripts under [`/sql`](./sql):
 
 ## 🖼 Dashboard Preview
 
-![Sales Performance Dashboard](./screenshots/dashboard_screenshot.png)
+![Sales Performance Dashboard](./screenshots/Dashboard_screenshot.png)
 
 ---
 
