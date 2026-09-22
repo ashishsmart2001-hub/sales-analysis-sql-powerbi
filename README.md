@@ -91,7 +91,7 @@ The SQL work is organized into four scripts under [`/sql`](./sql):
 - `/sql/04_data_quality_checks.sql`
 - `/powerbi/sql_project.pbix`
 - `/screenshots/dashboard_screenshot.png`
-- `/data/` — source CSVs (Customers, Products, Regions, Sales_Orders, 2017_Budgets)
+- `/Data/` — source CSVs (Customers, Products, Regions, Sales_Orders, 2017_Budgets)
 
 ---
 
